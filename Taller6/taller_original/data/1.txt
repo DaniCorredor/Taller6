@@ -1,0 +1,41 @@
+
+====================
+
+TIENDA HAMBURGUESAS
+Pedido: 1
+Cliente: 
+Direccion: 
+
+ITEM   PRECIO
+
+combo todoterreno   34317
+ * todoterreno
+ * papas grandes
+ * gaseosa
+combo todoterreno   34317
+ * todoterreno
+ * papas grandes
+ * gaseosa
+combo todoterreno   34317
+ * todoterreno
+ * papas grandes
+ * gaseosa
+combo todoterreno   34317
+ * todoterreno
+ * papas grandes
+ * gaseosa
+combo todoterreno   34317
+ * todoterreno
+ * papas grandes
+ * gaseosa
+combo todoterreno   34317
+ * todoterreno
+ * papas grandes
+ * gaseosa
+
+
+NETO   166780.62
+IVA   39121.38
+TOTAL   205902
+
+====================
